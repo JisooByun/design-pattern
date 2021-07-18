@@ -1,5 +1,6 @@
 package decoraterPattern.option;
 
+
 import decoraterPattern.Beverage;
 
 public class Whip extends CondimentDecorator {
